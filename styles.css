@@ -1,0 +1,122 @@
+element.style {
+    background: black;
+    margin: 80px;
+  }
+*/
+  section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+  body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Orbitron", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px rgb(0, 255, 149);
+    padding: 20px;
+    font-size: 50px;
+    color: rgb(0, 255, 149);
+}
+
+section{
+    background: rgb(100, 190, 160);
+}
+
+element.style {
+    margin: 80px;
+}
+
+section {
+    background: rgb(100, 190, 160);
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+element.style {
+    padding: 80px;
+}
+
+section {
+    background: rgb(100, 190, 160);
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+element.style {
+    padding-bottom: 80px;
+}
+
+section {
+    background: rgb(100, 190, 160);
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+section{
+    background: rgb(100, 190, 160);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
+
+element.style {
+    padding-bottom: 80px;
+}
+
+section {
+    background: rgb(100, 190, 160);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+section {
+    background: rgb(100, 190, 160);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}
+
+
+section {
+    background: rgb(100, 190, 160);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+section {
+    background: rgb(100, 190, 160);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
